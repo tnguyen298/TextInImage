@@ -51,7 +51,7 @@
 			
 		+ To extract text from an embedded image, please make sure you have
 		the control access to the image file. The image also needs to be in
-		RGB mode, and it is a png file. Type the following command to start
+		RGB mode, and is a png file. Type the following command to start
 		extracting:
 		
 		$ python3 textInImage.py extract <IMAGE_FILE_NAME>
