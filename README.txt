@@ -30,7 +30,8 @@
 	
 	b) How to execute:
 		+ Please download the source code textInImage.py from: 
-		_______________________________________________
+		https://github.com/tnguyen298/TextInImage
+		
 		+ On a terminal, please navigate to where the downloaded 
 		textInImage.py file is.
 		
