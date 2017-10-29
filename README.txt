@@ -29,7 +29,9 @@
 		https://pillow.readthedocs.io/en/latest/installation.html)
 	
 	b) How to execute:
-		+ Please download the source code textInImage.py from: 
+		+ There is a source code file (textInImage.py) included in this
+		submission. If you cannot find the file, please download the source
+		code textInImage.py from: 
 		https://github.com/tnguyen298/TextInImage
 		
 		+ On a terminal, please navigate to where the downloaded 
